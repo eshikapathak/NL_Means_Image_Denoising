@@ -4,5 +4,6 @@ Image denoising plays an important role in a wide range of applications such as 
 
 I implemented the non-local means filter as described in this publication: A. Buades, B. Coll and J. -. Morel, "A non-local algorithm for image denoising," 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), 2005, pp. 60-65 vol. 2, doi: 10.1109/CVPR.2005.38.
 
-The algorithm was tested on 10 sample images and also compared with Gaussian filtering. I have added a report with the observations and findings
+The algorithm was tested on 10 sample images and also compared with Gaussian filtering. I have added a report with the observations and findings.
 
+![sample](images/sample.png)

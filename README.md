@@ -6,4 +6,5 @@ I implemented the non-local means filter as described in this publication: A. Bu
 
 The algorithm was tested on 10 sample images and also compared with Gaussian filtering. I have added a report with the observations and findings.
 
+### Sample output screenshot
 ![sample](images/saturn.png)
